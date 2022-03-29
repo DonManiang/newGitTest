@@ -1,0 +1,2 @@
+# newGitTest
+My git project
